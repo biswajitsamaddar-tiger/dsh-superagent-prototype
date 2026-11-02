@@ -31,6 +31,7 @@ Read the numbered documents in order; each builds only on the ones before it.
 - [008 Cookbook](docs/008-cookbook.md): adding a Source
 
 ## Development
+// Testing my proposed change
 
 `pnpm check` runs the typecheck, the tests and the build.
 
